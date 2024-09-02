@@ -8,3 +8,4 @@ Meu nome é Clara Huf
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ![](https://media1.tenor.com/m/Krm6VNx1QjMAAAAd/ronaldo-siuuu-siuuu.gif)
+.
